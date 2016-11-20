@@ -1,0 +1,19 @@
+#first{
+	color:white;
+	background-repeat:no-repeat;
+	background-image: url(https://www.apple.com/v/music/c/images/overview/family_hero_medium_2x.jpg);
+	background-size:cover;
+	padding-top:200px;
+	padding-bottom:200px;
+
+}
+
+#third{
+	color:white;
+	background: #466368;
+  background: -webkit-linear-gradient(#648880, #293f50);
+  background:    -moz-linear-gradient(#648880, #293f50);
+  background:         linear-gradient(#648880, #293f50);
+}
+
+
